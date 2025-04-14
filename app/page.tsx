@@ -5,7 +5,7 @@ export default function Home() {
     <div className="bg-sky-500 text-white ">
       <h1 className="">linked clone </h1>
       <p className="p-4">how are you now </p>
-      <Button className="">Click me</Button>
+      <Button className="">Click me again</Button>
     </div>
   );
 }
